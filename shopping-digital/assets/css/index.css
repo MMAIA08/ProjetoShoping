@@ -1,0 +1,25 @@
+.container {
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #333;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background: #ff4d4d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #cc0000;
+}
